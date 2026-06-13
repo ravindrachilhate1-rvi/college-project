@@ -1,2 +1,2 @@
 # college-project
-this is my college 
+this is my college  proejct
